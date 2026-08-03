@@ -6,6 +6,8 @@
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0"
   ],
   "chrome_mobile": [
+    "Mozilla/5.0 (Android 12; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0",
+    "Mozilla/5.0 (Android 13; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0",
     "Mozilla/5.0 (Android 14; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0",
     "Mozilla/5.0 (Android 15; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0",
     "Mozilla/5.0 (Android 16; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0"
